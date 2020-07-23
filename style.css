@@ -1,0 +1,32 @@
+body {
+  background-color: #d5e8f2;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #3b7ea1;
+  padding: 1.5rem;
+}
+
+img {
+  max-width: 40%;
+  height: auto;
+  margin-right: 20px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+#s_about {
+  padding-bottom: 2em;
+}
+
+tbody {
+  background-color: #c5d5db;
+}
+
+tbody a {
+  color: #3b7ea1;
+}
